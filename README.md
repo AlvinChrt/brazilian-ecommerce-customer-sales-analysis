@@ -100,7 +100,7 @@ Raw CSV Files → Data Cleaning (Python) → Data Validation → Import into MyS
 Alvin Christ
 
 LinkedIn:
-([Your LinkedIn](https://www.linkedin.com/in/alvin-christ/))
+([alvinchrist](https://www.linkedin.com/in/alvin-christ/))
 
 Email:
 (alvinchrist707@gmail.com)
