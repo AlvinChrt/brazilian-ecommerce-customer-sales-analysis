@@ -63,25 +63,25 @@ Raw CSV Files → Data Cleaning (Python) → Data Validation → Import into MyS
 
 ### Executive Overview
 
-![Page1](dashboard/Page1.png)
+![Page1](Dashboard/Page1.png)
 
 ---
 
 ### Customer Analytics
 
-![Page2](dashboard/Page2.png)
+![Page2](Dashboard/Page2.png)
 
 ---
 
 ### Customer Retention
 
-![Page3](dashboard/Page3.png)
+![Page3](Dashboard/Page3.png)
 
 ---
 
 ### Product & Sales Performance
 
-![Page4](dashboard/Page4.png)
+![Page4](Dashboard/Page4.png)
 
 
 ## 💡 Key Insights 💡
